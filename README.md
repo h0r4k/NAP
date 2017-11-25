@@ -2,7 +2,7 @@
 
 ## What is NAP?
 
-NAP (Network Analyzer Proxy) is a tool designed to analyze networks under your control. It can mediate connection of arbitrary TCP, SSL, TLS or WebSocket to capture and rewrite packets.
+NAP (Network Analyzer Proxy) is a tool designed to analyze networks under your control for Windows. It can mediate connection of arbitrary TCP, SSL, TLS or WebSocket to capture and rewrite packets.
 
 ## Caution
 

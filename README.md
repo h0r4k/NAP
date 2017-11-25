@@ -6,7 +6,7 @@ NAP (Network Analyzer Proxy) is a tool designed to analyze networks under your c
 
 ## Caution
 
-* NAP needs to switch clientÅfs connection destination on your own. You need to route accordingly by rewriting the hosts file or the connection destination of winsock connect().
+* NAP needs to switch client's connection destination on your own. You need to route accordingly by rewriting the hosts file or the connection destination of winsock connect().
 
 * NAP does not support the connection from clients that require certificate authentication.
 
